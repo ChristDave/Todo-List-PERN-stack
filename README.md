@@ -5,8 +5,8 @@ run at the same time: <br>
 - run server => node index / nodemon index  
 - run client => npm start 
 
-NB: refresh after adding a new task 
-<br>
+### NB: refresh after adding a new task 
+<br> <br>
 Database: PostgreSQL <br>
 Framework: Express, NodeJS <br>
 Library: ReactJS <br>
